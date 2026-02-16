@@ -1,0 +1,22 @@
+# Flutter
+JARVIS_APP/.dart_tool/
+JARVIS_APP/.flutter-plugins
+JARVIS_APP/.flutter-plugins-dependencies
+JARVIS_APP/.packages
+JARVIS_APP/build/
+JARVIS_APP/.flutter_tool_state
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Generated files
+JARVIS_APP/lib/**/*.g.dart
+JARVIS_APP/lib/**/*.freezed.dart
+
+# OS
+.DS_Store
+Thumbs.db
