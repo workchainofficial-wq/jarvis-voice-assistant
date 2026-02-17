@@ -13,8 +13,8 @@ JARVIS_APP/.flutter_tool_state
 *.ipr
 *.iws
 
-# Generated files
-JARVIS_APP/lib/**/*.g.dart
+# Generated files (excluding required Hive adapters)
+# JARVIS_APP/lib/**/*.g.dart
 JARVIS_APP/lib/**/*.freezed.dart
 
 # OS
